@@ -8,11 +8,16 @@ h1{
     margin-bottom: 10px;
     background-color: green;
     font-family: "Open Sans", sans-serif;
+    text-align: center;
 
     border-style: dotted;
 }
 
+ul.ul2{
+font-family: "Open Sans", sans-serif;
+text-align: center;
 
+}
 
 
 .open-sans-<shrimp> {
