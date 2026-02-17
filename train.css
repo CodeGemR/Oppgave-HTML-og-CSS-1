@@ -16,9 +16,13 @@ h1{
 ul.ul2{
 font-family: "Open Sans", sans-serif;
 text-align: center;
+list-style-position: inside;
 
 }
-
+p.shrimp2{
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+}
 
 .open-sans-<shrimp> {
   font-family: "Open Sans", sans-serif;
